@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.util.concurrent.TimeUnit;
 
 
-public class IpadLabTests {
+public class GoogleSearch {
 
     private WebDriver driver;
 
