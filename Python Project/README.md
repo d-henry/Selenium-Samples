@@ -1,4 +1,4 @@
-# cloud_automation
+# Python Sample Project
 
 To run this project there is some setup required.
 
